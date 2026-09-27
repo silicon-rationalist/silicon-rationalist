@@ -32,7 +32,12 @@
       <text x="20" y="28" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#f472b6" letter-spacing="2">// BUILDING</text>
       <text x="20" y="55" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="15" font-weight="600" fill="#ffffff">→ ANTARA</text>
       <text x="36" y="78" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" fill="#ddd6fe">adaptive learning platform</text>
-      <text x="36" y="100" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" fill="#a78bfa">prep for SIH Hackathon</text>
+      <g transform="translate(36, 100)">
+        <circle cx="2" cy="-3.5" r="3" fill="#10b981">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="0" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="600" fill="#34d399">SIH Round 2 <tspan fill="#c084fc" font-weight="400">// In Progress</tspan></text>
+      </g>
     </g>
 
     <!-- Quadrant 2: EXPLORING (Col 2, Row 1) -->

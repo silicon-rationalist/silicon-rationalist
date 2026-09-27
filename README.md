@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" alt="RAKSHAN // silicon-rationalist" width="100%"/>
 
-[`IDENTITY`](#-identity) · [`CURRENTLY`](#-current-state) · [`BUILDS`](#-builds) · [`TOOLKIT`](#-toolkit) · [`TRANSMIT`](#-transmission)
+[`IDENTITY`](#-identity) · [`CURRENTLY`](#-current-state) · [`BUILDS`](#-builds) · [`HACKATHONS`](#-hackathons) · [`TOOLKIT`](#-toolkit) · [`TRANSMIT`](#-transmission)
 
 <p align="center">
   <a href="https://github.com/silicon-rationalist"><img src="https://img.shields.io/badge/GitHub-silicon--rationalist-1e1138?style=flat-square&logo=github&logoColor=a78bfa&labelColor=080813" alt="GitHub"/></a>
@@ -86,11 +86,17 @@
 
 <img src="./assets/orbit-divider-04.svg" width="100%"/>
 
+<div id="-hackathons">
+  <img src="./assets/hackathons-card.svg" width="100%" alt="HACKATHONS"/>
+</div>
+
+<img src="./assets/orbit-divider-05.svg" width="100%"/>
+
 <div id="-toolkit">
   <img src="./assets/toolkit-card.svg" width="100%" alt="TOOLKIT"/>
 </div>
 
-<img src="./assets/orbit-divider-05.svg" width="100%"/>
+<img src="./assets/orbit-divider-06.svg" width="100%"/>
 
 <div id="-transmission">
   <img src="./assets/transmission-card.svg" width="100%" alt="TRANSMISSION"/>
@@ -107,7 +113,7 @@
 </p>
 </div>
 
-<img src="./assets/orbit-divider-06.svg" width="100%"/>
+<img src="./assets/orbit-divider-07.svg" width="100%"/>
 
 <details>
 <summary><code>> BUILD LOG</code></summary>

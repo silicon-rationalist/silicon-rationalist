@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 432" width="100%" height="auto" style="width: 100%; height: auto; display: block;">
+  <defs>
+    <radialGradient id="hk-card-bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#190e30"/>
+      <stop offset="55%" stop-color="#100a22"/>
+      <stop offset="100%" stop-color="#080414"/>
+    </radialGradient>
+    <linearGradient id="hk-top-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#a855f7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#f472b6" stop-opacity="0.85"/>
+      <stop offset="75%" stop-color="#c084fc" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background & Glow Top Border -->
+  <rect width="800" height="432" rx="10" fill="url(#hk-card-bg)" stroke="#a855f7" stroke-width="1" stroke-opacity="0.35"/>
+  <line x1="30" y1="1" x2="770" y2="1" stroke="url(#hk-top-glow)" stroke-width="1.8"/>
+
+  <!-- Terminal Window Controls -->
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#7c3aed" stroke-width="0.75" stroke-opacity="0.25"/>
+  <circle cx="24" cy="18" r="4.5" fill="#f472b6" opacity="0.9"/>
+  <circle cx="39" cy="18" r="4.5" fill="#c084fc" opacity="0.75"/>
+  <circle cx="54" cy="18" r="4.5" fill="#7c3aed" opacity="0.6"/>
+  <text x="76" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#f472b6" letter-spacing="1.5">&gt; HACKATHONS // THE ARENA &amp; TRACK RECORD</text>
+  <text x="768" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" fill="#c084fc" text-anchor="end">3 CAMPAIGNS // SPRINT TESTED</text>
+
+  <!-- Hackathon Cards Container -->
+  <g transform="translate(30, 52)">
+
+    <!-- CAMPAIGN 01: MARGIC (Gold Medal) -->
+    <g transform="translate(0, 0)">
+      <rect width="740" height="112" rx="7" fill="#0d081c" stroke="#f59e0b" stroke-width="0.6" stroke-opacity="0.45"/>
+      <rect x="0" y="0" width="3.5" height="112" rx="1.75" fill="#fbbf24"/>
+
+      <!-- Header Row -->
+      <text x="20" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="700" fill="#fbbf24" letter-spacing="1.5">[ CAMPAIGN 01 ]</text>
+      <text x="136" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="15" font-weight="700" fill="#ffffff">◈ MARGIC</text>
+      <text x="226" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" fill="#ddd6fe">// Intercollegiate Hackathon</text>
+
+      <!-- Gold Medal Badge -->
+      <rect x="522" y="11" width="202" height="24" rx="12" fill="#281a05" stroke="#f59e0b" stroke-width="0.8"/>
+      <text x="623" y="27" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700" fill="#fde047" text-anchor="middle">🥇 GOLD MEDAL WINNER</text>
+
+      <!-- Inner Separator Line -->
+      <line x1="16" y1="38" x2="724" y2="38" stroke="#fbbf24" stroke-opacity="0.15"/>
+
+      <!-- Description & Impact -->
+      <text x="20" y="61" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#f5f3ff">Debut hackathon victory. Engineered an AI career guidance engine delivering precise, honest direction.</text>
+      <text x="20" y="82" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" fill="#ddd6fe">Built under rapid sprint pressure using Streamlit &amp; Gemini SDK · Won 1st place gold medal.</text>
+
+      <!-- Metadata Tagline -->
+      <text x="20" y="100" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" fill="#fbbf24"><tspan fill="#fde047">▸ SCOPE:</tspan> Collegiate Arena <tspan fill="#52525b">│</tspan> <tspan fill="#fde047">▸ OUTCOME:</tspan> Gold Medalist 🥇 <tspan fill="#52525b">│</tspan> <tspan fill="#fde047">▸ STATUS:</tspan> Champion</text>
+    </g>
+
+    <!-- CAMPAIGN 02: GEZT (Top 250 / 13k+) -->
+    <g transform="translate(0, 124)">
+      <rect width="740" height="112" rx="7" fill="#0d081c" stroke="#0284c7" stroke-width="0.6" stroke-opacity="0.45"/>
+      <rect x="0" y="0" width="3.5" height="112" rx="1.75" fill="#38bdf8"/>
+
+      <!-- Header Row -->
+      <text x="20" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="700" fill="#38bdf8" letter-spacing="1.5">[ CAMPAIGN 02 ]</text>
+      <text x="136" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="15" font-weight="700" fill="#ffffff">◈ GEZT</text>
+      <text x="206" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" fill="#ddd6fe">// Build What Moves India</text>
+
+      <!-- Top 250 Badge -->
+      <rect x="496" y="11" width="228" height="24" rx="12" fill="#041f30" stroke="#0284c7" stroke-width="0.8"/>
+      <text x="610" y="27" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">⭐ TOP 250 // 13K+ APPLICANTS</text>
+
+      <!-- Inner Separator Line -->
+      <line x1="16" y1="38" x2="724" y2="38" stroke="#38bdf8" stroke-opacity="0.15"/>
+
+      <!-- Description & Impact -->
+      <text x="20" y="61" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#f5f3ff">Streamlined cumbersome GST filing into an intuitive, zero-friction automated compliance workflow.</text>
+      <text x="20" y="82" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" fill="#ddd6fe">Selected into the elite national Top 250 finalists from over 13,000+ applicants (Top ~1.9%).</text>
+
+      <!-- Metadata Tagline -->
+      <text x="20" y="100" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" fill="#38bdf8"><tspan fill="#7dd3fc">▸ SCOPE:</tspan> National Hackathon <tspan fill="#52525b">│</tspan> <tspan fill="#7dd3fc">▸ SELECTION:</tspan> Top 250 / 13k+ <tspan fill="#52525b">│</tspan> <tspan fill="#7dd3fc">▸ STATUS:</tspan> National Finalist</text>
+    </g>
+
+    <!-- CAMPAIGN 03: ANTARA (SIH Round 2 In Progress) -->
+    <g transform="translate(0, 248)">
+      <rect width="740" height="112" rx="7" fill="#0d081c" stroke="#059669" stroke-width="0.6" stroke-opacity="0.45"/>
+      <rect x="0" y="0" width="3.5" height="112" rx="1.75" fill="#10b981"/>
+
+      <!-- Header Row -->
+      <text x="20" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="700" fill="#34d399" letter-spacing="1.5">[ CAMPAIGN 03 ]</text>
+      <text x="136" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="15" font-weight="700" fill="#ffffff">◈ ANTARA</text>
+      <text x="226" y="26" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" fill="#ddd6fe">// Smart India Hackathon (SIH)</text>
+
+      <!-- SIH Round 2 Badge with Pulsing Live Indicator -->
+      <rect x="490" y="11" width="234" height="24" rx="12" fill="#032616" stroke="#059669" stroke-width="0.8"/>
+      <circle cx="507" cy="23" r="3.5" fill="#10b981">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="614" y="27" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700" fill="#34d399" text-anchor="middle">ROUND 2 // IN PROGRESS ⚡</text>
+
+      <!-- Inner Separator Line -->
+      <line x1="16" y1="38" x2="724" y2="38" stroke="#10b981" stroke-opacity="0.15"/>
+
+      <!-- Description & Impact -->
+      <text x="20" y="61" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#f5f3ff">AI-driven adaptive learning platform mapping knowledge gaps into real-time feedback loops.</text>
+      <text x="20" y="82" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" fill="#ddd6fe">Cleared high-stakes internal collegiate round (300+ contenders); actively competing in Round 2.</text>
+
+      <!-- Metadata Tagline -->
+      <text x="20" y="100" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" fill="#34d399"><tspan fill="#6ee7b7">▸ SCOPE:</tspan> National SIH '24 <tspan fill="#52525b">│</tspan> <tspan fill="#6ee7b7">▸ INTERNAL:</tspan> Cleared (300+ pool) <tspan fill="#52525b">│</tspan> <tspan fill="#6ee7b7">▸ STAGE:</tspan> Round 2 Active</text>
+    </g>
+
+  </g>
+</svg>
