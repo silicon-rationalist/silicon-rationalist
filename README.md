@@ -33,56 +33,30 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <a href="https://antara-dun.vercel.app">
-    <img src="./assets/tile-antara.svg" width="100%" alt="ANTARA"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://seatlas.vercel.app">
-    <img src="./assets/tile-seatlas.svg" width="100%" alt="Seatlas"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://gezt-chi.vercel.app">
-    <img src="./assets/tile-gezt.svg" width="100%" alt="GEZT"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/silicon-rationalist/KCET_Tracker">
-    <img src="./assets/tile-kcet.svg" width="100%" alt="KCET Tracker"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/silicon-rationalist/AIRION">
-    <img src="./assets/tile-airion.svg" width="100%" alt="AIRION"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/silicon-rationalist/margic">
-    <img src="./assets/tile-margic.svg" width="100%" alt="MARGIC"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_ev1">
-    <img src="./assets/tile-jingle-v1.svg" width="100%" alt="JINGLE MATCHER v1"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_genisis">
-    <img src="./assets/tile-jingle-genesis.svg" width="100%" alt="JINGLE MATCHER genesis"/>
-  </a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://antara-dun.vercel.app"><img src="./assets/tile-antara.svg" width="100%" alt="ANTARA"/></a>
+</p>
+<p align="center">
+  <a href="https://seatlas.vercel.app"><img src="./assets/tile-seatlas.svg" width="100%" alt="SEATLAS"/></a>
+</p>
+<p align="center">
+  <a href="https://gezt-chi.vercel.app"><img src="./assets/tile-gezt.svg" width="100%" alt="GEZT"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/silicon-rationalist/KCET_Tracker"><img src="./assets/tile-kcet.svg" width="100%" alt="KCET TRACKER"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/silicon-rationalist/AIRION"><img src="./assets/tile-airion.svg" width="100%" alt="AIRION"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/silicon-rationalist/margic"><img src="./assets/tile-margic.svg" width="100%" alt="MARGIC"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_ev1"><img src="./assets/tile-jingle-v1.svg" width="100%" alt="JINGLE MATCHER v1"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_genisis"><img src="./assets/tile-jingle-genesis.svg" width="100%" alt="JINGLE MATCHER genesis"/></a>
+</p>
 
 <img src="./assets/orbit-divider-04.svg" width="100%"/>
 
