@@ -33,7 +33,7 @@
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellpadding="4">
 <tr>
 <td width="50%" valign="top">
   <a href="https://antara-dun.vercel.app">
