@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" width="100%" height="auto" style="width: 100%; height: auto; display: block;">
+  <defs>
+    <radialGradient id="tk-card-bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#160f2e"/>
+      <stop offset="55%" stop-color="#0e0a20"/>
+      <stop offset="100%" stop-color="#080514"/>
+    </radialGradient>
+    <linearGradient id="tk-top-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Deep Purple Card Background with Rounded Edges -->
+  <rect width="800" height="270" rx="10" fill="url(#tk-card-bg)" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.35"/>
+  <line x1="40" y1="1" x2="760" y2="1" stroke="url(#tk-top-glow)" stroke-width="1.5"/>
+
+  <!-- Terminal Top Bar with Canonical Red, Yellow, Green Controls -->
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#7c3aed" stroke-width="0.75" stroke-opacity="0.25"/>
+  <circle cx="24" cy="18" r="4.5" fill="#ff5f56"/>
+  <circle cx="39" cy="18" r="4.5" fill="#ffbd2e"/>
+  <circle cx="54" cy="18" r="4.5" fill="#27c93f"/>
+  <text x="76" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">&gt; TOOLKIT // STACK &amp; CAPABILITIES</text>
+
+  <!-- Three-Column Telemetry Matrix -->
+  <!-- Column 1: LANGUAGES -->
+  <g transform="translate(32, 54)">
+    <rect width="230" height="195" rx="6" fill="#0d091a" stroke="#7c3aed" stroke-width="0.5" opacity="0.6"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">// LANGUAGES</text>
+    <text x="16" y="56" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Python</text>
+    <text x="16" y="80" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ TypeScript</text>
+    <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ JavaScript</text>
+    <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ SQL (MySQL)</text>
+    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ HTML / CSS</text>
+  </g>
+
+  <!-- Column 2: USE -->
+  <g transform="translate(285, 54)">
+    <rect width="230" height="195" rx="6" fill="#0d091a" stroke="#7c3aed" stroke-width="0.5" opacity="0.6"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">// USE</text>
+    <text x="16" y="56" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ React · Vite</text>
+    <text x="16" y="80" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Streamlit · Tailwind</text>
+    <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Pygame · Pandas</text>
+    <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Vercel · Git</text>
+    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#a78bfa">▸ Gemini AI SDK</text>
+  </g>
+
+  <!-- Column 3: EXPLORING -->
+  <g transform="translate(538, 54)">
+    <rect width="230" height="195" rx="6" fill="#0d091a" stroke="#7c3aed" stroke-width="0.5" opacity="0.6"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">// EXPLORING</text>
+    <text x="16" y="56" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Next.js</text>
+    <text x="16" y="80" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff">▸ Node.js</text>
+    <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#a78bfa">▸ LLM Agent Systems</text>
+    <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#a78bfa">▸ Distributed systems</text>
+    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#7c3aed">▸ New abstractions</text>
+  </g>
+</svg>

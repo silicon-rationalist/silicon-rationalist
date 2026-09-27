@@ -16,11 +16,12 @@
   <rect width="800" height="170" rx="10" fill="url(#bl-card-bg)" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.35"/>
   <line x1="40" y1="1" x2="760" y2="1" stroke="url(#bl-top-glow)" stroke-width="1.5"/>
 
+  <!-- Canonical Red, Yellow, Green Controls -->
   <line x1="0" y1="36" x2="800" y2="36" stroke="#7c3aed" stroke-width="0.75" stroke-opacity="0.25"/>
-  <circle cx="24" cy="18" r="4" fill="#a78bfa" opacity="0.7"/>
-  <circle cx="38" cy="18" r="4" fill="#7c3aed" opacity="0.45"/>
-  <circle cx="52" cy="18" r="4" fill="#4c1d95" opacity="0.35"/>
-  <text x="72" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">&gt; BUILD LOG // SYSTEM METRICS</text>
+  <circle cx="24" cy="18" r="4.5" fill="#ff5f56"/>
+  <circle cx="39" cy="18" r="4.5" fill="#ffbd2e"/>
+  <circle cx="54" cy="18" r="4.5" fill="#27c93f"/>
+  <text x="76" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#c4b5fd" letter-spacing="1.5">&gt; BUILD LOG // SYSTEM METRICS</text>
 
   <text x="32" y="68" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#c4b5fd">09 repositories indexed</text>
   <text x="32" y="90" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#a78bfa">activity: evolving</text>
