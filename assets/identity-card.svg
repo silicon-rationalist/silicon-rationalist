@@ -18,11 +18,11 @@
   <rect width="800" height="170" rx="10" fill="url(#id-card-bg)" stroke="#a855f7" stroke-width="1" stroke-opacity="0.35"/>
   <line x1="30" y1="1" x2="770" y2="1" stroke="url(#id-top-glow)" stroke-width="1.8"/>
 
-  <!-- Red, Yellow, Green Terminal Controls -->
+  <!-- Terminal Controls in Celestial Pink and Purple Palette -->
   <line x1="0" y1="36" x2="800" y2="36" stroke="#7c3aed" stroke-width="0.75" stroke-opacity="0.25"/>
-  <circle cx="24" cy="18" r="4.5" fill="#ff5f56"/>
-  <circle cx="39" cy="18" r="4.5" fill="#ffbd2e"/>
-  <circle cx="54" cy="18" r="4.5" fill="#27c93f"/>
+  <circle cx="24" cy="18" r="4.5" fill="#f472b6" opacity="0.9"/>
+  <circle cx="39" cy="18" r="4.5" fill="#c084fc" opacity="0.75"/>
+  <circle cx="54" cy="18" r="4.5" fill="#7c3aed" opacity="0.6"/>
   <text x="76" y="22" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#f472b6" letter-spacing="1.5">&gt; IDENTITY</text>
 
   <!-- Content with Lavender and Light Pink Accents -->

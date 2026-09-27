@@ -42,7 +42,7 @@
     <text x="16" y="80" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f0abfc">▸</tspan> Streamlit · Tailwind</text>
     <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f0abfc">▸</tspan> Pygame · Pandas</text>
     <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f0abfc">▸</tspan> Vercel · Git</text>
-    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#f0abfc"><tspan fill="#f472b6">★</tspan> Gemini AI SDK</text>
+    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f472b6">★</tspan> Gemini AI SDK</text>
   </g>
 
   <g transform="translate(538, 54)">
@@ -50,8 +50,8 @@
     <text x="16" y="28" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700" fill="#f472b6" letter-spacing="1.5">// EXPLORING</text>
     <text x="16" y="56" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f0abfc">▸</tspan> Next.js</text>
     <text x="16" y="80" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f0abfc">▸</tspan> Node.js</text>
-    <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#f0abfc"><tspan fill="#f472b6">▸</tspan> LLM Agent Systems</text>
-    <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#c4b5fd"><tspan fill="#f472b6">▸</tspan> Distributed systems</text>
-    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#a78bfa"><tspan fill="#f472b6">▸</tspan> New abstractions</text>
+    <text x="16" y="104" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f472b6">▸</tspan> LLM Agent Systems</text>
+    <text x="16" y="128" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f472b6">▸</tspan> Distributed systems</text>
+    <text x="16" y="152" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" fill="#ffffff"><tspan fill="#f472b6">▸</tspan> New abstractions</text>
   </g>
 </svg>
