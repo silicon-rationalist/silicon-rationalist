@@ -1,125 +1,263 @@
-![system boot](assets/boot.svg)
+<div align="center">
 
-![identity panel](assets/header.svg)
+<img src="./assets/header.svg" alt="RAKSHAN // silicon-rationalist" width="100%"/>
 
-> **Professional over-thinker solving my own inefficiencies.**
+<br/>
 
-<img src="assets/dot.svg" width="10" alt=""> **online** — BLR · IST &nbsp;│&nbsp; nav: [identity](#identity) · [current state](#current-state) · [toolkit](#toolkit) · [builds](#builds) · [transmission](#transmission)
+[`IDENTITY`](#-identity) · [`BUILDS`](#-builds) · [`TOOLKIT`](#-toolkit) · [`CURRENTLY`](#-current-state) · [`TRANSMIT`](#-transmission)
 
-gh [silicon-rationalist](https://github.com/silicon-rationalist) · in [rakshan-s](https://www.linkedin.com/in/rakshan-s/) · ig [sweet_poison.exe](https://www.instagram.com/sweet_poison.exe/) · mail [rakshan.exe@gmail.com](mailto:rakshan.exe@gmail.com)
+<a href="https://github.com/silicon-rationalist">
+<img src="https://img.shields.io/badge/GH-silicon--rationalist-0a0a12?style=flat-square&logo=github&logoColor=4ade80&labelColor=0a0a12&color=1a1a2e" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rakshan-s/">
+<img src="https://img.shields.io/badge/IN-rakshan--s-0a0a12?style=flat-square&logo=linkedin&logoColor=4ade80&labelColor=0a0a12&color=1a1a2e" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/sweet_poison.exe/">
+<img src="https://img.shields.io/badge/IG-sweet__poison.exe-0a0a12?style=flat-square&logo=instagram&logoColor=4ade80&labelColor=0a0a12&color=1a1a2e" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:rakshan.exe@gmail.com">
+<img src="https://img.shields.io/badge/MAIL-rakshan.exe@gmail.com-0a0a12?style=flat-square&logo=gmail&logoColor=4ade80&labelColor=0a0a12&color=1a1a2e" alt="Email"/>
+</a>
 
----
+</div>
 
-## IDENTITY
+<br/>
 
-The loop: notice something that works badly → overthink it, unreasonably → build the smallest thing that fixes it. The build is almost always quieter than the overthinking.
+<img src="./assets/divider.svg" width="100%"/>
 
-Bengaluru. One developer, several small systems. Motion over milestones.
+<br/>
 
-## CURRENT STATE
+## `> IDENTITY`
 
-| process | state |
-| --- | --- |
-| `building` | **ANTARA** — adaptive learning platform · `react` `typescript` `gemini` |
-| `learning` | react + typescript, one real app at a time |
-| `exploring` | GST filing, minus the suffering · `GEZT` |
-| `trying to understand` | `// undefined — it gets defined slowly` |
+```
+I tend to notice small things that could work better,
+overthink them for an unreasonable amount of time,
+and eventually build something about it.
 
-## TOOLKIT
+Most of my projects exist because a process annoyed me enough.
+```
 
-`▣ in use` · `◇ ramping (recent, still sharp)`
+<br/>
 
-| domain | load |
-| --- | --- |
-| `languages` | ▣ `python` `c` `sql` `html/css` |
-| `ramping` | ◇ `typescript` `javascript` `react` |
-| `ui / build` | ▣ `streamlit` `pygame` `vite` `tailwind` `leaflet` |
-| `data` | ▣ `pandas` `mysql` `sqlalchemy` `matplotlib` |
-| `ai` | ▣ `gemini api` |
+<img src="./assets/divider.svg" width="100%"/>
 
-## BUILDS
+<br/>
 
-`08 builds + this interface — every one started as a problem I had myself.`
+## `> CURRENT STATE`
 
-### FEATURED
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   BUILDING                                      │
+│   → ANTARA // adaptive learning platform        │
+│     preparing for Smart India Hackathon         │
+│                                                 │
+│   EXPLORING                                     │
+│   → new tools, new frameworks, new problems     │
+│     figuring out what sticks                    │
+│                                                 │
+│   TRYING TO UNDERSTAND                          │
+│   → how to make things that actually get used   │
+│     systems that work beyond the demo           │
+│                                                 │
+│   MODE                                          │
+│   → build first, optimize obsessively later     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
-**◈ [ANTARA](https://github.com/silicon-rationalist/ANTARA)** `current`
-Adaptive learning platform — finds the exact gap, not just the wrong answer.
-`typescript` `react` `gemini`
-`# youngest build in the system — still compiling`
+<br/>
 
-**◈ [Seatlas](https://github.com/silicon-rationalist/Seatlas)** `deployed`
-Colleges on a map: cutoffs, ROI, commute — one click each, no ten tabs.
-`typescript` `leaflet` `vercel` · [live](https://seatlas.vercel.app)
-`# crossed 1000+ organic views after one honest post`
+<img src="./assets/divider.svg" width="100%"/>
 
-**◈ [margic](https://github.com/silicon-rationalist/margic)** `award`
-AI career counsellor for students who can't afford one.
-`python` `streamlit` `gemini` · [deck](https://1drv.ms/p/c/82daeec0c06839ac/IQB4dJDtKheCQIq7khaYWTnKAZANWhz1OSX0O11Ldkvrakg?e=Gs9FOF)
-`# built in one night, on a deadline. won 1st place anyway.`
+<br/>
 
-### THE REST
+## `> BUILDS`
 
-**▣ [GEZT](https://github.com/silicon-rationalist/GEZT)** `utility`
-GST filing, rebuilt with less complexity and fewer pre-requisites.
-`javascript` `vite`
-`# tax season, but make it usable`
+<sub>Not ranked. Not judged. Just built.</sub>
 
-**▣ [KCET_Tracker](https://github.com/silicon-rationalist/KCET_Tracker)** `tooling`
-Exam-prep tracker — sessions, answers, answer-key checks, patterns over time.
-`typescript`
-`# built because the same questions felt different on different days`
+<br/>
 
-**▣ [AIRION](https://github.com/silicon-rationalist/AIRION)** `utility`
-CLI study companion — topics, sessions, breaks, charts in the terminal.
-`python` `mysql` `pandas` `matplotlib`
-`# "the battle is won in the terminal before the exam hall"`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**▣ [JINGLE_MATCHER_genisis](https://github.com/silicon-rationalist/JINGLE_MATCHER_genisis)** `origin`
-Secret Santa, but actually fair. The first game ever shipped.
-`python` `pygame`
-`# "because rigged gift exchanges are so 2023"`
+### `◈ ANTARA`
+<sub>RECENT // WEB // AI</sub>
 
-**▣ [JINGLE_MATCHER_ev1](https://github.com/silicon-rationalist/JINGLE_MATCHER_ev1)** `iterated`
-The rewrite — scenes, classes, a calmer UI, no duplicate names.
-`python` `pygame`
-`# the first version taught the second one`
+AI-powered adaptive learning platform. Maps knowledge gaps, modulates diagnostic assessments, orchestrates mastery trajectories in real time.
 
-## TRANSMISSION
+`TypeScript` · `React` · `Vite` · `Gemini AI` · `Tailwind`
 
-| ch | id |
-| --- | --- |
-| `gh` | [silicon-rationalist](https://github.com/silicon-rationalist) |
-| `in` | [rakshan-s](https://www.linkedin.com/in/rakshan-s/) |
-| `ig` | [sweet_poison.exe](https://www.instagram.com/sweet_poison.exe/) |
-| `mail` | [rakshan.exe@gmail.com](mailto:rakshan.exe@gmail.com) |
-| `loc` | Bengaluru, India |
+<a href="https://github.com/silicon-rationalist/ANTARA">source</a> · <a href="https://antara-dun.vercel.app">live</a>
 
-`responses: human timeframe, no SLA — mail has the highest priority`
+</td>
+<td width="50%" valign="top">
+
+### `◈ SEATLAS`
+<sub>UTILITY // WEB // DATA</sub>
+
+Map-based college explorer. Cutoffs, ROI comparison, commute planning — all the things that were spread across 15 browser tabs, in one place.
+
+`TypeScript` · `Leaflet` · `Vercel`
+
+<a href="https://github.com/silicon-rationalist/Seatlas">source</a> · <a href="https://seatlas.vercel.app">live</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `◈ GEZT`
+<sub>UTILITY // WEB</sub>
+
+GST filing with better UX and less complexity. Because tax interfaces shouldn't require a tutorial.
+
+`JavaScript` · `Web`
+
+<a href="https://github.com/silicon-rationalist/GEZT">source</a> · <a href="https://gezt-chi.vercel.app">live</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `◈ KCET TRACKER`
+<sub>UTILITY // PRODUCTIVITY</sub>
+
+Study tracker built to monitor practice consistency, analyze performance, and simplify revision.
+
+`TypeScript` · `Productivity`
+
+<a href="https://github.com/silicon-rationalist/KCET_Tracker">source</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `◈ AIRION`
+<sub>EXPERIMENT // CLI</sub>
+
+Terminal-based study companion. Subject selection, session tracking, break management, progress visualization. Studies feel more organized when something is watching.
+
+`Python` · `MySQL` · `Matplotlib`
+
+<a href="https://github.com/silicon-rationalist/AIRION">source</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `◈ MARGIC`
+<sub>EXPERIMENT // AI</sub>
+
+AI-powered career counsellor. Built in one night before a competition. Collects your background, stores a profile, gives honest direction.
+
+`Python` · `Streamlit` · `Gemini AI`
+
+<a href="https://github.com/silicon-rationalist/margic">source</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `◈ JINGLE MATCHER v1`
+<sub>EXPERIMENT // GAME</sub>
+
+Redesigned Secret Santa game. Scene-based structure, holiday-themed UI, smarter matching logic. The v1 that actually works.
+
+`Python` · `Pygame`
+
+<a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_ev1">source</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `◈ JINGLE MATCHER genesis`
+<sub>EXPERIMENT // GAME</sub>
+
+The original. Fair Secret Santa assignment — no rigging, just randomization. Where the idea started.
+
+`Python` · `Pygame`
+
+<a href="https://github.com/silicon-rationalist/JINGLE_MATCHER_genisis">source</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+## `> TOOLKIT`
+
+```
+LANGUAGES               USE                      EXPLORING
+─────────               ───                      ─────────
+Python                  Streamlit                JavaScript
+TypeScript              Pygame                   React
+JavaScript              Pandas                   Next.js
+SQL                     MySQL                    New frameworks
+HTML / CSS              Vite                     Whatever solves
+                        Tailwind                 the next problem
+                        Vercel
+                        Gemini AI
+```
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+## `> TRANSMISSION`
+
+```
+╭──────────────────────────────────────╮
+│                                      │
+│   GH     silicon-rationalist         │
+│   IN     rakshan-s                   │
+│   IG     sweet_poison.exe            │
+│   MAIL   rakshan.exe@gmail.com       │
+│   LOC    BLR // BENGALURU, INDIA     │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+[`GitHub`](https://github.com/silicon-rationalist) · [`LinkedIn`](https://www.linkedin.com/in/rakshan-s/) · [`Instagram`](https://www.instagram.com/sweet_poison.exe/) · [`Mail`](mailto:rakshan.exe@gmail.com)
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
 
 <details>
-<summary>build log — actual numbers, no inflation</summary>
+<summary><code>> BUILD LOG</code></summary>
 
-| | |
-| --- | --- |
-| builds | `08` + this interface |
-| public active days · last 90 | `03` |
-| first build | `margic` · 2025-08 |
-| newest build | `ANTARA` · 2026-09 |
-| stars | `00` — honest |
+<br/>
 
-The graph is small. The builds are real. That's the trade.
+```
+09 repositories indexed
+activity: evolving
+account age: ~1 year
+green squares: honest
+
+I'm still early.
+But I build things.
+```
 
 </details>
 
-<details>
-<summary>what is this page</summary>
+<br/>
 
-A README that behaves like a small OS. The screens are generated by `make_assets.py` (python stdlib, no dependencies) — `python3 make_assets.py` rewrites everything in `assets/`. The rest is plain markdown, so updating it shouldn't require a reboot.
+<div align="center">
 
-</details>
+<img src="./assets/footer.svg" width="100%"/>
 
----
-
-`system status: still building.`
-`more terrain generating...`
+</div>
