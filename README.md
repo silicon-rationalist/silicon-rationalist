@@ -15,47 +15,19 @@
 
 <img src="./assets/orbit-divider-01.svg" width="100%"/>
 
-## `> IDENTITY`
-
-```
-I notice small things that could work better,
-overthink them for an unreasonable time,
-and eventually build something about it.
-
-Most of my projects exist because
-a process annoyed me enough.
-```
+<div id="-identity">
+  <img src="./assets/identity-card.svg" width="100%" alt="IDENTITY"/>
+</div>
 
 <img src="./assets/orbit-divider-02.svg" width="100%"/>
 
-## `> CURRENT STATE`
-
-```
-┌────────────────────────────────────┐
-│                                    │
-│   BUILDING                         │
-│   → ANTARA                         │
-│     adaptive learning platform     │
-│     prep for SIH Hackathon         │
-│                                    │
-│   EXPLORING                        │
-│   → new tools & frameworks         │
-│     figuring out what sticks       │
-│                                    │
-│   TRYING TO UNDERSTAND             │
-│   → how to make things that        │
-│     actually get used              │
-│     systems beyond the demo        │
-│                                    │
-│   MODE                             │
-│   → build first, optimize later    │
-│                                    │
-└────────────────────────────────────┘
-```
+<div id="-current-state">
+  <img src="./assets/current-state-card.svg" width="100%" alt="CURRENT STATE"/>
+</div>
 
 <img src="./assets/orbit-divider-03.svg" width="100%"/>
 
-## `> BUILDS`
+<h2 id="-builds"><code>&gt; BUILDS</code></h2>
 
 <sub>Not ranked. Not judged. Just built.</sub>
 
@@ -168,7 +140,7 @@ The original. Fair Secret Santa assignment — no rigging, just randomization. W
 
 <img src="./assets/orbit-divider-04.svg" width="100%"/>
 
-## `> TOOLKIT`
+<h2 id="-toolkit"><code>&gt; TOOLKIT</code></h2>
 
 #### `// LANGUAGES`
 <p>
@@ -202,7 +174,7 @@ The original. Fair Secret Santa assignment — no rigging, just randomization. W
 
 <img src="./assets/orbit-divider-05.svg" width="100%"/>
 
-## `> TRANSMISSION`
+<h2 id="-transmission"><code>&gt; TRANSMISSION</code></h2>
 
 <div align="center">
 
@@ -223,17 +195,8 @@ The original. Fair Secret Santa assignment — no rigging, just randomization. W
 
 <details>
 <summary><code>> BUILD LOG</code></summary>
-
-```
-09 repositories indexed
-activity: evolving
-account age: ~1 year
-green squares: honest
-
-I'm still early.
-But I build things.
-```
-
+<br/>
+<img src="./assets/build-log-card.svg" width="100%" alt="BUILD LOG"/>
 </details>
 
 <div align="center">

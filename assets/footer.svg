@@ -1,39 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 64" width="100%" height="auto" style="width: 100%; height: auto; display: block;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="auto" style="width: 100%; height: auto; display: block;">
   <defs>
-    <!-- Deep Cosmic Space Void Background -->
-    <radialGradient id="footer-space-bg" cx="50%" cy="50%" r="65%">
-      <stop offset="0%" stop-color="#0e0d1c"/>
-      <stop offset="55%" stop-color="#080813"/>
-      <stop offset="100%" stop-color="#04040a"/>
-    </radialGradient>
-
     <linearGradient id="footer-orbit" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0%" stop-color="transparent"/>
       <stop offset="20%" stop-color="#7c3aed" stop-opacity="0.3"/>
-      <stop offset="50%" stop-color="#c4b5fd" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#c4b5fd" stop-opacity="0.85"/>
       <stop offset="80%" stop-color="#7c3aed" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
   </defs>
-
-  <!-- Enclosed Space Void Container (Guarantees dark purple in Light/Dark themes) -->
-  <rect width="800" height="64" rx="8" fill="url(#footer-space-bg)" stroke="#7c3aed" stroke-width="0.75" stroke-opacity="0.25"/>
-
-  <!-- Star Dust Particles -->
-  <circle cx="210" cy="22" r="0.6" fill="#e2e8f0" opacity="0.35"/>
-  <circle cx="590" cy="42" r="0.6" fill="#c4b5fd" opacity="0.35"/>
-  <circle cx="340" cy="18" r="0.5" fill="#a78bfa" opacity="0.3"/>
-  <circle cx="460" cy="46" r="0.5" fill="#ffffff" opacity="0.3"/>
-
-  <line x1="40" y1="16" x2="760" y2="16" stroke="url(#footer-orbit)" stroke-width="1"/>
+  <line x1="40" y1="16" x2="760" y2="16" stroke="url(#footer-orbit)" stroke-width="1.2"/>
   <text x="400" y="38" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="600" fill="#c4b5fd" text-anchor="middle" letter-spacing="3.5">
     NO FINAL VERSION DETECTED. STILL BUILDING.
   </text>
   <!-- Orbital pulse indicator -->
-  <circle cx="400" cy="52" r="2.2" fill="#a78bfa" opacity="0.6">
-    <animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.5s" repeatCount="indefinite"/>
+  <circle cx="400" cy="50" r="2.2" fill="#a78bfa" opacity="0.7">
+    <animate attributeName="opacity" values="0.25;0.95;0.25" dur="3.5s" repeatCount="indefinite"/>
     <animate attributeName="r" values="1.8;2.8;1.8" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="384" cy="52" r="1.1" fill="#8b5cf6" opacity="0.45"/>
-  <circle cx="416" cy="52" r="1.1" fill="#8b5cf6" opacity="0.45"/>
+  <circle cx="384" cy="50" r="1.1" fill="#8b5cf6" opacity="0.45"/>
+  <circle cx="416" cy="50" r="1.1" fill="#8b5cf6" opacity="0.45"/>
 </svg>
